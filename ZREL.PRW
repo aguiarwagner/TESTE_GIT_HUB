@@ -11,7 +11,7 @@ oPrinter := FWMSPrinter():New("exemplo.rel", IMP_PDF, lAdjustToLegacy,cLocal, lD
 //oPrinter:Ellipse( 10, 10, 100, 100, CLR_BLACK, CLR_BLACK, 0, "-2")
 oPrinter:Line ( 10, 10, 100, 100,CLR_BLACK, CLR_BLACK , 0, "-2") //-->
 
-/// testegit commit -m "first commit"
+/// outra atualizações do meu fonte
 
 
 oPrinter:Setup()
